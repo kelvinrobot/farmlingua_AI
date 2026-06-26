@@ -1,0 +1,22 @@
+crewai
+langchain
+langchain-community
+faiss-cpu
+transformers >=4.51.0
+sentence-transformers
+pydantic
+joblib
+pyyaml
+torch
+fastapi
+uvicorn
+apscheduler
+numpy<2
+requests
+beautifulsoup4
+huggingface-hub
+python-dotenv
+blobfile
+sentencepiece
+fasttext
+cachetools
